@@ -1,5 +1,5 @@
 {
-  "name": "hapi-rate-limiter",
+  "name": "orderbook-hapi-rate-limiter",
   "version": "2.1.0",
   "description": "Hapi-plugin to handle rate-limiting",
   "main": "lib/index.js",
@@ -13,17 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lob/hapi-rate-limiter.git"
+    "url": "https://github.com/Ambisafe/orderbook-hapi-rate-limiter.git"
   },
   "keywords": [
     "hapi"
   ],
   "author": "",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/lob/hapi-rate-limiter/issues"
-  },
-  "homepage": "https://github.com/lob/hapi-rate-limiter",
+  "homepage": "https://github.com/Ambisafe/orderbook-hapi-rate-limiter.git",
   "dependencies": {},
   "devDependencies": {
     "bluebird": "^3.4.0",
