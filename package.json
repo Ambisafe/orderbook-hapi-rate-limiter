@@ -37,7 +37,6 @@
     "redis": "^2.6.2"
   },
   "peerDependencies": {
-    "hapi": ">=11 <14",
     "redis": "^2.6.2"
   }
 }
